@@ -75,6 +75,9 @@
                                 <state key="normal" title="회원가입">
                                     <color key="titleColor" systemColor="systemPurpleColor" red="0.68627450980000004" green="0.32156862749999998" blue="0.87058823529999996" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </state>
+                                <connections>
+                                    <action selector="btnRegister:" destination="BYZ-38-t0r" eventType="touchUpInside" id="e4a-qY-p1j"/>
+                                </connections>
                             </button>
                         </subviews>
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
@@ -95,6 +98,9 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <navigationItem key="navigationItem" id="V4S-eb-5lN"/>
+                    <connections>
+                        <outlet property="btnLogin" destination="d48-Dw-79G" id="ynA-9f-7oW"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
