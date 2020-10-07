@@ -9,6 +9,9 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    var tfid: String = ""
+    var tfpd: String = ""
 
     override func viewDidLoad() {
         super.viewDidLoad()
