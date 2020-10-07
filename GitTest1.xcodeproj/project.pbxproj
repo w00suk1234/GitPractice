@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		42F3BE0F252DA79B009DBCC5 /* RegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42F3BE0E252DA79B009DBCC5 /* RegisterViewController.swift */; };
 		42F9E718252DA43F009AF288 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42F9E717252DA43F009AF288 /* AppDelegate.swift */; };
 		42F9E71A252DA43F009AF288 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42F9E719252DA43F009AF288 /* SceneDelegate.swift */; };
 		42F9E71C252DA43F009AF288 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42F9E71B252DA43F009AF288 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		42F3BE0E252DA79B009DBCC5 /* RegisterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewController.swift; sourceTree = "<group>"; };
 		42F9E714252DA43F009AF288 /* GitTest1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitTest1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		42F9E717252DA43F009AF288 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		42F9E719252DA43F009AF288 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				42F9E719252DA43F009AF288 /* SceneDelegate.swift */,
 				42F9E71B252DA43F009AF288 /* ViewController.swift */,
 				42F9E71D252DA43F009AF288 /* Main.storyboard */,
+				42F3BE0E252DA79B009DBCC5 /* RegisterViewController.swift */,
 				42F9E720252DA441009AF288 /* Assets.xcassets */,
 				42F9E722252DA441009AF288 /* LaunchScreen.storyboard */,
 				42F9E725252DA441009AF288 /* Info.plist */,
@@ -141,6 +144,7 @@
 				42F9E71C252DA43F009AF288 /* ViewController.swift in Sources */,
 				42F9E718252DA43F009AF288 /* AppDelegate.swift in Sources */,
 				42F9E71A252DA43F009AF288 /* SceneDelegate.swift in Sources */,
+				42F3BE0F252DA79B009DBCC5 /* RegisterViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
