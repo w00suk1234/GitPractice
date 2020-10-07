@@ -12,12 +12,16 @@ class ViewController: UIViewController {
     
     var tfid: String = ""
     var tfpd: String = ""
-
+    
+    @IBOutlet weak var btnLogin: UIButton!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
 
 
+    @IBAction func btnRegister(_ sender: Any) {
+    }
 }
 
